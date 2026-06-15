@@ -21,7 +21,7 @@
 - T1583.001 — Acquire Infrastructure: Domains
 (purpose-built domain, registered 1 day prior)
 
-### Analyst Notes
+### My Notes
 This sample represents the most common phishing infrastructure pattern — a purpose-built domain registered days before a campaign launches, using a vanity TLD to add credibility. 
 The combination of a brand-new domain, WHOIS privacy protection, and a payment-themed URL targeting Netflix subscribers suggests a credential/payment harvesting campaign. 
 
